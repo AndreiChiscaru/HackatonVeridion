@@ -11,6 +11,7 @@ host = "http://172.18.4.158:8000"  # Add your server host URL
 post_url = f"{host}/submit-word"
 get_url = f"{host}/get-word"
 status_url = f"{host}/status"
+player_id = "FBKee5Ie5q"
 
 # Game Constants
 NUM_ROUNDS = 5
